@@ -56,16 +56,5 @@ The analysis is presented in a 2x2 dashboard to provide a comprehensive overview
 - **Analysis:** A simple Barplot identifying the top 5 individual performers by their `student_id`.
 - **Insight:** This chart provides a quick look at the highest-achieving students in this dataset.
 
-## 🚀 How to Run
 
-1.  Ensure you have the required Python libraries installed:
-    ```bash
-    pip install pandas numpy matplotlib seaborn
-    ```
-2.  Place the `student_exam_scores.csv` file in the same directory as the Python script.
-3.  Run the script:
-    ```bash
-    python your_script_name.py
-    ```
-4.  The script will print the cleaning status to the console and display the 2x2 visualization dashboard.
 
