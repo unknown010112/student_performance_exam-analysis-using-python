@@ -1,4 +1,4 @@
-![car_sales_dashboard.png](images/car_sales_dashboard.png)
+![car_sales_dashboard.png](car_sales_dashboard.png)
 
 # 🎓 Student Exam Score Analysis
 
@@ -68,3 +68,4 @@ The analysis is presented in a 2x2 dashboard to provide a comprehensive overview
     python your_script_name.py
     ```
 4.  The script will print the cleaning status to the console and display the 2x2 visualization dashboard.
+
